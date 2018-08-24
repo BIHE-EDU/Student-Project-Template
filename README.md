@@ -4,11 +4,11 @@
 | ------------------| ----------------------------- |
 | Version           |                               |
 | Document Status   |     `DRAFT`                   |
-| Document Owner    |     @a<your email address>    |
+| Document Owner    |     @name1@organization.com    |
 | Related Issues    |                               |
-| Designer          |     @a<your email address>    |
-| Developer         |     @a<your email address>    |
-| QA                |     @a<your email address>    |
+| Designer          |     @name2@organization.org    |
+| Developer         |     @name3@organization.com    |
+| QA                |     @name1@organization.org    |
 
 # Goal
 
@@ -28,7 +28,7 @@ This demonstrates ......
 | - | ----------------------- | ----------------------------- | ---------------------- | ------------------------ |
 | 1 | My BIHE project | I want my work to be of benefit to others | Must have           |            |
 | 2 | Project website            | I want others to have access to my work so they can build upon it                  | Must have           |              |
-| 3 | For references            | I want reference my work in my resume                  | Must have           |              |
+| 3 | For references            | I want to reference my work in my resume                  | Must have           |              |
 
 # User Integration Design
 
