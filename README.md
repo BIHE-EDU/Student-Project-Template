@@ -24,11 +24,11 @@ This demonstrates ......
 
 # Requirements
 
-|   |     Title               |   User Story                  |   Importance           |      Notes               |
+|   |     Title               |   User/Organization Story     |   Importance           |      Notes               |
 | - | ----------------------- | ----------------------------- | ---------------------- | ------------------------ |
-| 1 | My BIHE project | I want my work to be of benefit to others | Must have           |            |
-| 2 | Project website            | I want others to have access to my work so they can build upon it                  | Must have           |              |
-| 3 | For references            | I want to reference my work in my resume                  | Must have           |              |
+| 1 | Requirement one | ... | Must have           |            |
+| 2 | Requirement two            | ...                  | Must have           |              |
+| 3 | Requirement three            | ...                  | Must have           |              |
 
 # User Integration Design
 
