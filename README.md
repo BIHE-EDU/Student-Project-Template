@@ -32,8 +32,7 @@ This demonstrates ......
 
 # User Integration Design
 
-The following icon will be used as the favicon that will appear on each browser page tab associate with my project
-![favicon design](/design_images/favicon.png) Format: [png]
+...
 
 # Questions
 
